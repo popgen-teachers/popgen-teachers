@@ -3,6 +3,15 @@
 This is a place to share resources.
 
 
+## Courses
+
+Add yours here!
+
+
+## Other resources
+
+- A [short course on using R+markdown](https://github.com/popgen-teachers/r-markdown-tutorial), including how to make html slides.
+
 
 ## How to collaborate
 
